@@ -1,5 +1,5 @@
 # MACHINE VISION ROBOT (MVR)
-# AUTHORS: TREVOR McCLEEREY, JANSEN QUIROS
+# AUTHORS: TREVOR McCLEERY, JANSEN QUIROS
 # PHYS 124 - FALL 2017
 # DESCRIPTION: This program controls a robot that uses an OpenMV camera to track a green object.
 #              In the demonstration,  we have chosen a green ball to be its focus. Two servo motors
